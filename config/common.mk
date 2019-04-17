@@ -76,7 +76,6 @@ PRODUCT_PACKAGES += \
 # Optional packages
 PRODUCT_PACKAGES += \
     Basic \
-    LiveWallpapersPicker \
     PhaseBeam
 
 # AudioFX
